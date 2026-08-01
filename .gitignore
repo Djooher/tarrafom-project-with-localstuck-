@@ -15,17 +15,4 @@ crash.log
 .DS_Store
 Thumbs.db
 
-# Terraform files
-.terraform/
-*.tfstate
-*.tfstate.*
-crash.log
 
-# Terraform variables (may contain secrets)
-*.tfvars
-
-# LocalStack
-.localstack/
-
-# OS files
-.DS_Store
